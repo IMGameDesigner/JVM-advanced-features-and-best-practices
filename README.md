@@ -1,2 +1,2 @@
-# JVM-advanced-features-and-best-practices
-jvm高级特性与最佳实践
+
+《深入理解jvm高级特性与最佳实践》读书笔记
